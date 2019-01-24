@@ -5,4 +5,4 @@
 
 用python构建了线性回归模型，用了正规方程和梯度下降两种方法收敛。梯度下降大约迭代100000次能够完全收敛，用了sklearn内置的数据集。效果图如下：
 
-![](media/0f6406f8f569fcfbab32e340839a9bf2.png)
+![](G:\The-road-to-ML\media\linear.png)
